@@ -1,0 +1,489 @@
+id,city_id,name
+1,5,
+2,6,
+3,7,
+4,8,
+5,9,
+6,16,
+7,10,
+8,11,
+9,12,
+10,13,
+11,17,
+12,18,
+14,20,
+15,22,
+17,24,
+18,25,
+19,26,
+21,28,
+23,30,
+24,31,
+25,32,
+26,33,
+27,35,
+28,36,
+29,37,
+30,38,
+31,39,
+32,40,
+33,41,
+34,42,
+35,43,
+36,44,
+38,46,
+39,47,
+41,49,
+42,50,
+43,51,
+44,52,
+45,53,
+46,54,
+47,55,
+48,56,
+49,57,
+50,58,
+51,59,
+52,60,
+53,61,
+54,62,
+635,259,Ómnibus Mack
+57,65,
+59,68,
+61,72,
+62,73,
+87,99,Metro
+64,75,
+65,76,
+92,104,Metrô
+326,265,Busway
+68,80,
+69,81,
+71,83,
+72,84,
+73,85,
+75,88,
+55,63,RapidKL
+77,90,
+79,86,
+80,92,
+81,93,
+82,94,
+85,97,
+86,98,
+88,100,
+89,101,
+22,29,Metro
+93,105,
+96,109,
+95,108,SMRT Trains
+98,112,
+99,113,
+60,70,Métro de Lyon
+101,115,
+16,23,Tramway de Bordeaux
+103,117,
+104,119,
+105,120,
+106,121,
+107,122,
+108,125,
+109,138,
+112,143,
+113,140,
+114,123,
+115,141,
+116,142,
+117,144,
+118,135,
+119,34,
+120,127,
+121,128,
+122,129,
+123,130,
+124,131,
+125,132,
+126,133,
+127,134,
+128,136,
+129,137,
+130,145,
+131,146,
+134,149,
+135,150,
+136,151,
+138,153,
+139,154,
+140,155,
+141,156,
+142,157,
+143,158,
+144,159,
+145,160,
+146,161,
+147,162,
+148,163,
+149,164,
+150,165,
+151,166,
+152,167,
+153,168,
+154,169,
+155,170,
+156,171,
+157,172,
+13,19,U-Bahn
+74,87,Metro
+94,106,Metroferroviário
+83,95,Métro de Paris
+20,27,Metro
+40,48,Glasgow Subway
+58,67,Metro
+132,147,CTA
+84,96,Transperth Trains
+78,91,JR West
+137,152,DART Light Rail
+70,82,U-Bahn
+133,148,Cincinnati Subway
+111,124,Metro Valparaíso
+158,173,
+159,174,
+160,175,
+161,176,
+162,177,
+163,178,
+164,179,
+165,180,
+166,181,
+167,182,
+168,183,
+169,184,
+170,185,
+171,186,
+172,187,
+173,188,
+244,259,Tranvía
+175,190,
+176,191,
+177,192,
+178,193,
+179,194,
+180,195,
+181,196,
+182,197,
+183,198,
+257,110,Tunnelbana
+185,200,
+186,201,
+187,202,
+188,203,
+189,204,
+190,205,
+192,207,
+193,208,
+194,209,
+195,210,
+268,4,Tren Central
+197,212,
+198,213,
+199,214,
+200,215,
+201,216,
+202,217,
+203,218,
+204,219,
+205,220,
+206,221,
+207,222,
+208,223,
+209,224,
+210,225,
+211,226,
+212,227,
+213,228,
+214,229,
+215,230,
+217,232,
+218,233,
+219,234,
+220,235,
+222,237,
+223,238,
+224,239,
+225,240,
+226,241,
+227,242,
+228,243,
+229,244,
+230,245,
+231,246,
+233,248,
+235,250,
+236,251,
+636,110,Båt
+238,253,
+239,254,
+637,206,Staten Island Ferry
+242,257,
+245,260,
+249,126,
+250,66,
+254,1,Subte
+247,14,Metro
+191,206,MTA NYC Subway
+261,69,National Rail
+262,69,London Overground
+259,69,London Underground
+263,69,Other
+248,78,Sistema de Transporte Colectivo (STC)
+265,78,Servicio de Transportes Eléctricos de CDMX (STE)
+264,78,Metrobús
+266,78,Ferrocarriles Suburbanos
+267,4,Metro de Santiago
+251,118,U-Bahn
+269,79,Ferrovie Suburbane
+67,79,Metro
+273,262,Metro
+272,78,Secretaría de Comunicaciones y Transportes (SCT)
+91,103,Metro
+271,103,Ferrovie Urbane
+102,116,Sistema Ferroviario Metropolitano Regionale
+275,106,Trem Turístico
+276,4,Ferrocarriles del Estado
+256,261,Biotrén
+246,71,Metro
+279,106,BRT/Corredor
+353,99,Bus
+216,231,MUNI
+280,19,S-Bahn
+281,19,Tram
+282,107,Other
+252,107,Metro
+283,15,BRT
+284,15,BCR
+258,15,Beijing Subway
+285,263,Elektrische Kleinbahn Graz-Mariatrost
+286,263,Straßenbahn Graz
+243,258,Metro Bilbao
+287,258,Tranvía
+288,258,Euskotren Trena
+234,249,Skytrain
+253,21,Transmilenio
+290,264,Tranvía de Zaragoza
+291,264,Cercanías Renfe
+292,266,STAR
+221,236,Link Light Rail
+295,266,Tramways Électriques Rennais (TER)
+232,247,Toronto Transit Commission Subway
+237,252,WMATA Metrorail
+382,114,Saitama New Urban Transit
+293,114,Toei Subway
+100,114,Tokyo Metro
+294,267,Tram
+296,95,Tramway d'Île-de-France
+297,95,RER
+298,95,Transilien
+300,95,Grand Paris Express
+301,95,TZen
+302,95,Funiculaire
+289,265,Tramway
+303,95,Navettes fluviales
+304,114,Toei Light Rail
+638,259,Ómnibus
+313,114,Tokyo Waterfront New Transit Corporation
+315,126,Macrobús
+327,265,Ancien tramway
+317,67,Comboios de Portugal
+299,95,Dessertes aéroportuaires
+260,14,FGC + Rodales
+319,21,SITP Provisional
+321,21,Taxis compartidos
+354,77,Yarra Trams
+355,211,OC Transpo
+323,114,Metropolitan Intercity Railway Company
+328,265, Navettes fluviales
+329,265,Chronobus
+330,21,SITP
+331,21,TransmiCable
+332,21,Tren de la Sabana
+76,89,Metro
+333,89,National Rail
+184,199,STM
+336,268,Euskotren
+337,268,Renfe
+338,1,Trenes Metropolitanos
+340,114,Yokohama Municipal Subway
+63,74,Métro de Marseille
+341,74,Tramway de Marseille
+342,70,Tramway
+343,70,Funiculaire
+356,70,Tram-Train
+345,267,City Bus
+346,74,Liaisons maritimes
+347,118,Bus
+348,23,Navette fluviale
+174,189,LA Metro Rail
+359,236,Monorail
+360,63,KTM Komuter
+361,63,Express Rail Link (ERL)
+196,211,OC Transpo (Capital Railway)
+362,231,Caltrain
+364,247,GO Transit
+365,111,Sydney Metro
+366,111,Sydney Light Rail
+97,111,Sydney Trains
+370,91,Hankyu
+371,91,Hanshin
+372,91,Keihan
+373,91,Nankai
+374,91,Kintetsu
+378,27,Tram
+379,82,S-Bahn
+380,82,Tram
+381,307,Tram
+383,275,Tramway
+384,293,Tramway
+385,293,Téléphérique
+386,310,Métro
+387,310,TEOR
+388,280,Tramway
+389,286,Tram
+390,286,Téléphérique
+392,14,Tram
+90,102,Turísticos
+393,102,VLT Carioca
+394,102,Metrô Rio
+395,102,SuperVia
+396,102,CCR Barcas
+397,102,BRT Rio
+402,328,Tram
+403,328,BHNS
+404,324,Tram
+407,108,SBS Transit
+240,255,Winnipeg Transit - MBMetroRail
+357,236,KCM Rapid Bus Corridors
+369,91,Osaka Metro
+110,139,MBTA Subway
+358,236,InterCounty Train
+377,114,Chichibu Railway
+324,114,Hokuso Railway
+376,114,Isumi Railway
+368,114,Chiba Urban Monorail
+305,114,JR East
+399,114,Kaigan Electric Railway
+306,114,Keikyu
+307,114,Keio
+375,114,Kominato Railway
+409,114,Nanso Railway
+391,114,Narita Railway
+309,114,Odakyu
+352,114,Sagami Railway
+349,114,Shonan Monorail
+311,114,Tobu
+314,114,Tokyo Monorail
+322,114,Saitama Railway Corporation
+325,114,Tokyo Toden
+310,114,Seibu
+339,114,Toyo Rapid Railway
+363,114,Yamaman
+312,114,Tokyu
+351,114,Yokohama Minatomirai Railway Company
+410,114,Yokohama Municipal Streetcar
+350,114,Yokohama Seaside Line
+308,114,Keisei
+589,91,Hankai Tramway
+590,236,Seattle Subway
+66,77,Metro Trains Melbourne
+416,1,Metrobús
+423,139,CapeFLYER
+461,126,Ruta-Empresa
+463,331,Tramway
+464,331,Funiculaire
+465,305,Tramway
+466,317,Tramway
+467,314,Tramway
+468,265,Tram-train
+469,300,Tramway
+470,124,Desvios Ferroviarios
+591,236,Free Transfer Between Stations
+471,325,Métro
+472,325,Tramway
+473,327,Métro
+474,283,Tramway
+475,110,Roslagsbanan
+476,110,Nockebybanan
+478,4,Tranvías Suburbanos
+479,206,NYW&B
+480,206,NYNH&H
+477,206,IRT
+483,206,New York Central
+484,327,Tramway
+485,327,AMITRAM
+486,291,Tramway
+487,294,Tramway
+488,256,Metro
+489,256,Tramvia
+482,206,MTA Metro-North
+490,206,BMT
+491,318,TVR
+492,308,Tramway
+493,124,Ascensores
+494,4,Corredor Bus
+496,206,PATH
+498,206,Long Island Railroad
+495,206,MTA Long Island Railroad
+499,206,MTA Staten Island Railroad
+497,206,NJT Newark Light Rail
+500,206,NJT Hudson-Bergen Light Rail
+501,261,Corredor Bus
+422,139,MBTA Commuter Rail
+502,139,Boston & Albany Railroad
+535,139,Boston Elevated Railway
+536,139,MBTA Commuter Rail
+537,124,Trolebuses
+538,139,New Haven Railroad
+539,139,Boston & Maine Railroad
+540,91,Mizuma Railway
+541,91,Semboku Rapid Railway
+542,91,Kyoto Municipal Subway
+543,91,Eizan Electric Railway
+544,91,Osaka Monorail
+545,91,Kita-Osaka Kyuko Railway
+546,91,Kobe Municipal Subway
+548,91,Sanyo Electric Railway
+549,91,Kobe New Transit
+550,91,Kobe Electric Railway
+551,91,JR Central
+413,110,Pendeltåg
+552,91,Nose Electric Railway
+553,91,Hokushin Kyuko Electric Railway
+554,91,Wakayama Electric Railway
+587,91,Iga Railway
+588,64,Teleférico
+592,252,WMATA Metrobus
+626,48,Glasgow to Edinburgh Lines
+627,48,North of Scotland lines
+628,48,Ayrshire & Inverclyde Lines
+629,45,National Rail
+630,323,Lanka Bus Group
+631,48,Intercity Lines
+632,91,Keifuku Electric Railroad
+625,48,Suburban Lines
+633,91,Ohmi Railway
+634,91,Shigaraki Kogen Railway
+414,114,Bushu Railway
+420,114,Choshi Electric Railway
+426,114,Fuji Kyuko
+417,114,Honjo Electric Railway
+418,114,Izuhakone Railway
+421,114,JR Central
+425,114,Jomo Electric Railway
+419,114,Kanto Railway
+459,114,Kashima Rinkai Railway
+401,114,Kawasaki Transportation Department
+415,114,Kujukuri Railway
+460,114,Moka Railway
+411,114,Ryutetsu
+334,114,Tokyo Tama Intercity Monorail
+316,114,Tokyo Waterfront Area Rapid Transit
+462,114,Utsunomiya Light Rail Company
